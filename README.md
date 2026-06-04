@@ -1,5 +1,6 @@
 # Minecraft: Casa do Edition
-![GitHub Release](https://img.shields.io/github/v/release/jp222343/Minecraft-Casa-Do-EDITION?sort=date&display_name=release&label=versao&labelColor=008000&color=444&link=https%3A%2F%2Fgithub.com%2Fjp222343%2FMinecraft-Casa-Do-EDITION%2Freleases%2Ftag%2FMCDE)
+![GitHub Release](https://img.shields.io/github/v/release/jp222343/Minecraft-Casa-Do-EDITION?sort=date&display_name=release&label=%C3%9Altimo%20Release)
+
 
 
 modpack tufo manos cobblemon casa do sons de tijolos e moveis tufo epico
